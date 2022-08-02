@@ -79,25 +79,4 @@ func Cost(books []int) int
 ```
 Cost will return the total cost (after discounts) in cents.
 For example, for a single book, the cost is 800 cents, which equals $8.00.
-Only integer calculations are necessary for this exercise.
-
-## Source
-
-### Created by
-
-- @magic003
-
-### Contributed to by
-
-- @bitfield
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @ilmanzo
-- @leenipper
-- @sebito91
-- @eklatzer
-
-### Based on
-
-Inspired by the harry potter kata from Cyber-Dojo. - http://cyber-dojo.org
+Only integer calculations are necessary for this exercise.´
